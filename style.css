@@ -58,7 +58,7 @@ h1{font-size: 20px;
 
 @font-face {
   font-family: 'MiaPaluncic'; 
-	src: url("fonts/MiaPaluncic.ttf"); format("truetype");
+	src: url("fonts/MiaPaluncic.ttf") format("truetype");
   font-weight: normal;
 	font-style: normal;}
 
